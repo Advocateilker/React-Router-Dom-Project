@@ -41,7 +41,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/bookstore-website.git
+   git clone https://github.com/Advocateilker/React-Router-Dom-Project.git
    cd bookstore-website
    npm install
    npx json-server --watch db.json --port 3080
